@@ -18,6 +18,7 @@ public class Dau1 {
 
         System.out.println("Cuantas veces quieres tirar: ");
         int tira = in.nextInt();
+        int a = Dau2.getRandomDouble(1,6);
         int dadoA;
         int dadoB;
 
